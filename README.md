@@ -1,1 +1,1 @@
-# golfy-api
+# Golfy
